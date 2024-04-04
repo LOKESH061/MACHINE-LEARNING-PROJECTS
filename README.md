@@ -1,2 +1,2 @@
 # MACHINE-LEARNING-PROJECTS
-GIVE DESCRIPTION FOR VIDEO PURPOSE I PUT FILES INTO PRIVATE YOU HAVE UPLOAD IN PUBLIC
+This repository serves as a centralized hub for all my machine learning projects. It provides a well-organized and collaborative space to store, track, and share your work, fostering effective development practices.
